@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<!-- saved from url=l -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>profile</title>
+  <link rel="stylesheet" href="./profile_files/reset.css">
+  <link rel="stylesheet" href="./profile_files/profile.css">
+</head>
+<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" data-gr-c-s-loaded="true">
+​
+  <!-- 個人資料&學歷區塊 -->
+  <div class="container">
+​
+    <div class="title-bottom-line">
+      <h1>Chien-Chin Lin</h1>
+    </div>
+​
+    <div class="photo">
+      <img src="./profile_files/jaimelin.jpg" alt="" width="200" style="border-radius: 30%;">
+    </div>
+​
+    <div>
+      <div class="title-bottom-line">
+        <h2 data-aos="fade-left" class="aos-init aos-animate">PROFILE</h2>
+      </div>
+      <div class="mb-72">
+        <ul data-aos="fade-left" class="aos-init aos-animate">
+          <li class="personal">
+            <div class="edu">
+              Chien-Chin(Jaime) Lin <br>
+              - Software Engineer
+            </div>
+            <div class="exp">
+              Hi, I'm Chien-Chin. It's fine if you would like to call me Jaime. Now I'm working in ASM pacific Industry as a junior software engineer.<br>
+              I am a programming lover and familiar with Python. I've had experience on back-end development, such as Python Flask. Recently I read a lot of C++ code because I am working on a semiconducting machine.<br>
+              Besides, I am interested in projects which apply machine learning methods on real life. Thanks for visiting my profile.<br>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="title-bottom-line">
+        <h2>EDUCATION</h2>
+      </div>
+      <div class="mb-72 item-wrap">
+        <ul class="school aos-init aos-animate" data-aos="fade-up">
+          <li class="school-item time-line">National Cheng Kung University | 2014－2017 | <br> Master of Science in Electrical Engineering, Institute of Computer and Communication Engineering</li>
+          <li class="school-item">National University of Tainan | 2010－2014 | <br> Bachelor of Science in Computer Science </li>
+        </ul>
+      </div>
+      <div class="title-bottom-line">
+        <h2>LANGUAGES</h2>
+      </div>
+      <div class="mb-72 item-wrap">
+        <ul class="school aos-init aos-animate" data-aos="fade-up">
+          <li class="school-item time-line">Native in Mandarin</li>
+          <li class="school-item">High-intermediate in English</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+​
+  <!-- 技能區塊 -->
+  <div class="skill-warp mb-72">
+    <div class="skill-bg">
+      <div class="container skill-content">
+        <div class="title-bottom-line">
+          <h2>SKILLS</h2>
+        </div>
+        <ul class="skills-ul">
+          <li>Programming Languages: C/C++, Python, HTML, JavaScript</li>
+          <li>Website Back-end Development (flask)</li>
+          <li>Database: MongoDB, MSSQL</li>
+          <li>Machine Learning</li>
+          <li>DevOps: Docker</li>
+          <li>Operating System: Linux (Ubuntu) and Windows</li>
+          <li>Version Control: Git and SVN</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+​
+  <!-- 工作經驗區塊 -->
+  <div class="container mb-72">
+    <div class="title-bottom-line">
+      <h2>WORK EXPERIENCE</h2>
+    </div>
+    <div class="container-work-experience">
+      <ul data-aos="fade-up-right" class="aos-init">
+        <li>
+          <div class="container-design">1. ASM Pacific Technology – Software Engineer | 2018/10－Present</div>
+            <ul class="school aos-init aos-animate" data-aos="fade-up">
+              <li class="school-item time-line">AI Platform
+                <p>A Python website platform that integrates the state-of-art neural network and machine learning methods.</p>
+              </li>
+              <li class="school-item">Laser Dicing Machine System
+                <p>A large and multi-language (C++ and Python) system, which focuses on complicated wafer dicing processes.</p>
+              </li>
+            </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+​
+​
+  <!-- 聯絡方式底部區塊 -->
+  <div class="connection-wrap">
+    <div class="container">
+      <div class="title-bottom-line">
+        <h2>CONTACT ME</h2>
+      </div>
+
+      <div class="connection">
+        <div>Mail：Leonard.cclin@gmail.com</div>
+        <div>LinkedIn：<a href="https://www.linkedin.com/in/chien-chin-lin-3086b4127/">https://www.linkedin.com/in/chien-chin-lin-3086b4127/</a></div>
+        <div>Github：<a href="https://github.com/Jaimecclin?tab=repositories">https://github.com/Jaimecclin?tab=repositories</a></div>
+        <div>New Taipe City, Taiwan</div>
+      </div>
+​
+      <div class="social-media">
+        <img src="./profile_files/facebook.svg" alt="">
+        <img src="./profile_files/instagram-alt.svg" alt="">
+        <img src="./profile_files/line.svg" alt="">
+      </div>
+    </div>
+  </div>
+
+  <link rel="stylesheet" href="./profile_files/aos.css">
+  <script src="./profile_files/aos.js.download">
+  </script>
+  <script>
+  AOS.init();
+  </script>
+
+</body></html>
