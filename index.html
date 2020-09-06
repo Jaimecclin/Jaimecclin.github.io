@@ -8,8 +8,14 @@
   <link rel="stylesheet" href="./profile_files/profile.css">
 </head>
 <body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" data-gr-c-s-loaded="true">
+  <scriipt type="javascript">
+    function openInNewTab(url) {
+      var win = window.open(url, '_blank');
+      win.focus();
+    }
+  </scriipt>
 ​
-  <!-- 個人資料&學歷區塊 -->
+  <!-- Personal Data -->
   <div class="container">
 ​
     <div class="title-bottom-line">
@@ -60,7 +66,7 @@
     </div>
   </div>
 ​
-  <!-- 技能區塊 -->
+  <!-- Skills -->
   <div class="skill-warp mb-72">
     <div class="skill-bg">
       <div class="container skill-content">
@@ -80,7 +86,7 @@
     </div>
   </div>
 ​
-  <!-- 工作經驗區塊 -->
+  <!-- Work Experience -->
   <div class="container mb-72">
     <div class="title-bottom-line">
       <h2>WORK EXPERIENCE</h2>
@@ -101,9 +107,39 @@
       </ul>
     </div>
   </div>
+
+  <!-- Open Source -->
+  <div class="container mb-72">
+    <div class="title-bottom-line">
+      <h2>OPEN-SOURCE PROJECT</h2>
+    </div>
+    <div class="container-work-experience">
+      <ul data-aos="fade-up-right" class="aos-init">
+        <li>
+          <div class="container-design">tpot</div>
+            <ul class="school aos-init aos-animate" data-aos="fade-up">
+              <li class="school-item time-line">
+                <div onclick="window.open('https://github.com/Jaimecclin/tpot', '_blank');">
+                  <p>(Click me) A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.</p>
+                </div>
+              </li>
+            </ul>
+        </li>
+        <li>
+          <div class="container-design">LeetCode Collections</div>
+            <ul class="school aos-init aos-animate" data-aos="fade-up">
+              <li class="school-item time-line">
+                <div onclick="window.open('https://github.com/Jaimecclin/LeetCodeCollections', '_blank');">
+                  <p>(Click me) This note is my personal Leetcode practice. </p>
+                </div>
+              </li>
+            </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
 ​
-​
-  <!-- 聯絡方式底部區塊 -->
+  <!-- Connection -->
   <div class="connection-wrap">
     <div class="container">
       <div class="title-bottom-line">
