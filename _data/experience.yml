@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: ASM Pacific Technology
+  link: https://www.asmpacific.com/en/
+  job_title: Software Engineer
+  dates: November 2018 - present)
   quote: >
-   Short description of the company (optional)
+    The only company in the world that offers high-quality equipment for all major steps in the electronics manufacturing process
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Developement of data analytics platform and laser dicing machine new modules.
