@@ -47,11 +47,11 @@ linkedin_username: chien-chin-lin-3086b4127
 about_profile_image: profile_files/jaimelin.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Chien-Chin. It's fine if you would like to call me Jaime. Now I'm working in ASM pacific Industry as a junior software engineer.
-  I am a programming lover and good at <makr> Python </mark>. I've had experience on back-end development, such as Python Flask. Language C/C++ is also in my skill sets because I am working on a semiconducting machine.
+  I am a programming lover and good at <mark> Python </mark>. I've had experience on back-end development, such as Python Flask. Language C/C++ is also in my skill sets because I am working on a semiconducting machine.
   Besides, I am interested in projects which apply machine learning methods on real life. Thanks for visiting my profile.
   
   This [Medium blog](https://medium.com/@leonard.cclin) collects some of my coding experince. I also share Leetcode practices in my [personal blog](https://jaimecclin.github.io/blog/). 
-  
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
