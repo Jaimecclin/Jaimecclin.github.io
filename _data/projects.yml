@@ -1,9 +1,25 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: AI Platform
+  link: 
   quote: >
-    Short overview of the project (optional)
+    A Python website platform that integrates the state-of-art neural network and machine learning methods.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    I planned the architecture of a Python web-based Data Analysis Platform from scratch and was responsible for two microservices of it. It provides various Machine Learning and Deep Learning methods for users to upload their own data-set to train a model and make prediction results for further analysis. I’m also responsible for the implementation of flask back-end functionalities, including providing RESTful APIs, manipulating MongoDB, and parallel computing tasks. To quickly deploy this system, I adopted Docker technology to build each microservice so we are able to scale up our whole service easily if needed.
+
+- layout: top-middle
+  name: Laser Dicing Machine System
+  link: 
+  quote: >
+    A complex and multi-language system, which focuses on complicated wafer dicing processes.
+  description: | # this will include new lines to allow paragraphs
+    A large and multi-language (C++ and Python) project, in cooperation with the Netherlands branch. Due to the importance of the project and its many stakeholders, the pressure to deliver was immense. We have used TDD and agile development to ensure product quality. My achievement on this project is quickly adjusting to a new environment and delivering a new feature as soon as possible.
+
+- layout: top-middle
+  name: tpot
+  link: https://github.com/EpistasisLab/tpot
+  github: EpistasisLab/tpot
+  quote: >
+    I am one of contributors.
+  description: | # this will include new lines to allow paragraphs
+    TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
