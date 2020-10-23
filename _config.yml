@@ -54,6 +54,15 @@ about_content: | # this will include new lines to allow paragraphs
   
   This [Medium blog](https://medium.com/@leonard.cclin) collects some of my coding experince. I also share Leetcode practices in my [personal blog](https://jaimecclin.github.io/blog/). 
 
+  My skills
+    - Programming Languages: C/C++, Python, HTML, JavaScript
+    - Website Back-end Development (flask)
+    - Database: MongoDB, MSSQL
+    - Machine Learning
+    - DevOps: Docker
+    - Operating System: Linux (Ubuntu) and Windows
+    - Version Control: Git and SVN
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
