@@ -46,9 +46,9 @@ linkedin_username: chien-chin-lin-3086b4127
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile_files/jaimelin.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Chien-Chin. I'm fine if you would like to call me Jaime. Now I'm working in Taiwan and seeking a remote or overseas job.
+  Hi, I'm Chien-Chin. I'm fine if you would like to call me Jaime. Now I'm working in Taiwan and seeking a remote or OVERSEAS job.
 
-  I am a programming lover and good at <mark>Python</mark>. I've had experience on back-end development, such as Python Flask. Language C/C++ is also in my skill sets because I am working on a semiconducting machine.
+  I am a programming lover and good at <mark>Python</mark>. I've had experience on back-end development, such as Python Flask. Language C/C++ is also in my skill sets.
   
   Besides, I am interested in AWS clouds infrastructure, Docker deployment, and CI/CD so I am learning it.
   
@@ -57,12 +57,12 @@ about_content: | # this will include new lines to allow paragraphs
   This [Medium blog](https://jaime-lin.medium.com/) collects some of my coding experience. I also share LeetCode practices in my [personal blog](https://jaimecclin.github.io/blog/). 
 
   My skills
-    - Programming Languages: Python, C/C++, HTML, JavaScript
-    - Website Back-end Development (flask)a
+    - Programming Languages: Python, C/C++
+    - Website Back-end Development (flask)
     - Database: MongoDB, MSSQL
     - Machine Learning
-    - DevOps: Docker
-    - Operating System: Linux (Ubuntu) and Windows
+    - DevOps: Docker, CI/CD(GitLab)
+    - Operating System: Linux and Windows
     - Version Control: Git and SVN
 
 # Projects Section
@@ -77,11 +77,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in software engineering some of my other interests and hobbies are:
-  - Workout
-  - Basketball
-  - League of Legends
-  - Animations
+  I have passion of doing programming. An optimistic and communicative person. Alongside my interests in software engineering some of my other interests and hobbies are: workout, basketball, League of Legends and animations.
 
 # Footer
 footer_show_references: true
