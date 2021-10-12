@@ -46,23 +46,23 @@ linkedin_username: chien-chin-lin-3086b4127
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile_files/jaimelin.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Chien-Chin. I'm fine if you would like to call me Jaime. Now I'm working in Taiwan and seeking a remote or OVERSEAS job.
+  Hi, I'm Chien-Chin. I'm fine if you would like to call me Jaime. Now I'm working in Taiwan.
 
-  I am a programming lover and good at <mark>Python</mark>. I've had experience on back-end development, such as Python Flask. Language C/C++ is also in my skill sets.
-  
+  I am a programming lover and good at <mark>Python and C++</mark>. I've had experience on back-end development, such as Python Flask.
+
   Besides, I am interested in AWS clouds infrastructure, Docker deployment, and CI/CD so I am learning it.
-  
+
   Those projects which apply machine learning methods on real-life are cool for me. Thanks for visiting my profile.
-  
-  This [Medium blog](https://jaime-lin.medium.com/) collects some of my coding experience. I also share LeetCode practices in my [personal blog](https://jaimecclin.github.io/blog/). 
+
+  This [Medium blog](https://jaime-lin.medium.com/) collects some of my coding experience. I also share LeetCode practices in my [personal blog](https://jaimecclin.github.io/blog/).
 
   My skills
     - Programming Languages: Python, C/C++
     - Website Back-end Development (flask)
     - Database: MongoDB, MSSQL
     - Machine Learning
-    - DevOps: Docker, CI/CD(GitLab)
-    - Operating System: Linux and Windows
+    - DevOps: Docker, GitLab-CI
+    - Operating System: Linux (Ubuntu/CentOS) and Windows
     - Version Control: Git and SVN
 
 # Projects Section
