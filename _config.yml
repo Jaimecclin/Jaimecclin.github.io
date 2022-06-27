@@ -50,20 +50,20 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am a programming lover and good at <mark>Python and C++</mark>. I've had experience on back-end development, such as Python Flask.
 
-  Besides, I am interested in AWS clouds infrastructure, Docker deployment, and CI/CD so I am learning it.
+  Besides, I am interested in sharing coding experiences on internet and making useful tools on VSCode hub.
 
   Those projects which apply machine learning methods on real-life are cool for me. Thanks for visiting my profile.
 
-  This [Medium blog](https://jaime-lin.medium.com/) collects some of my coding experience. I also share LeetCode practices in my [personal blog](https://jaimecclin.github.io/blog/).
+  This [Medium blog](https://jaime-lin.medium.com/) collects some of my learning life, including English learning and debugging skills. I also share LeetCode practices in my [personal blog](https://jaimecclin.github.io/blog/).
 
   My skills
-    - Programming Languages: Python, C/C++
+    - Programming Languages: C++, Python
     - Website Back-end Development (flask)
     - Database: MongoDB, MSSQL
     - Machine Learning
     - DevOps: Docker, GitLab-CI
     - Operating System: Linux (Ubuntu/CentOS) and Windows
-    - Version Control: Git and SVN
+    - Version Control: Git, SVN, CVS
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

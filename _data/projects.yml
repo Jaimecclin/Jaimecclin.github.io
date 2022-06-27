@@ -23,3 +23,12 @@
     I am one of the contributors.
   description: | # this will include new lines to allow paragraphs
     TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. I was a user of it and I found some handy APIs still in progress. So that I tried to add them and write down more unit tests.
+
+- layout: top-middle
+  name: CVS-plugin
+  link: https://marketplace.visualstudio.com/items?itemName=jaimelin.cvs-plugin
+  github: Jaimecclin/cvs-pluging-vscode-ext
+  quote: >
+    Project owner
+  description: | # this will include new lines to allow paragraphs
+    A CVS version control extension on VSCode

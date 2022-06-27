@@ -12,7 +12,16 @@
   company: LatticeWork
   link: https://www.latticehome.com/
   job_title: Software Engineer
-  dates: December 2020 - Present
+  dates: December 2020 - December 2021
   quote: >
     LatticeWork develops cloud-edge solutions that tackle storage, privacy and bandwidth issues related to skyrocketing data and video consumption.
+  description:
+
+- layout: top-middle
+  company: Siemens EDA (Mentor Graphics)
+  link: https://eda.sw.siemens.com/en-US/
+  job_title: Software Engineer
+  dates: December 2021 - Present
+  quote: >
+    Siemens EDA delivers the world's most comprehensive portfolio of electronic design automation (EDA) software, hardware and services.
   description: 
